@@ -1,8 +1,8 @@
 ## [`jojs`](https://github.com/jojs74/)
 - 👀  Atualmente estou aprendendo HTML, CSS, Js
-- 📫 How to reach me (Insta)
-Olá 🌎</br>
-💭✍ Estudando</br>
+- 📫 How to reach me (Insta)</br>
+- Olá 🌎
+- 💭✍ Estudando
 
 ##
 <div>
