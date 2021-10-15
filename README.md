@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @jojs74
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀  Atualmente estou aprendendo HTML, CSS, Js
+- 📫 How to reach me (Insta)
 Olá 🌎</br>
-💭✍ Estudando Front </br>
+💭✍ Estudando</br>
 
 ##
 
