@@ -1,4 +1,4 @@
-## [`jojs`](https://github.com/jojs74/)
+## [`jojs74`](https://github.com/jojs74/)
 - 👀  Atualmente estou aprendendo HTML, CSS, Js
 - 📫 How to reach me (Insta)</br>
 - Olá 🌎
