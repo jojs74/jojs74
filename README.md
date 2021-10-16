@@ -7,7 +7,7 @@
 
 ##
 
-### [`contact`]()
+### contact
 
  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.google.com/gmail)
  [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://www.whatsapp.com/?lang=pt_br)
@@ -22,7 +22,7 @@
 
 ##
 
-### [`Networks`]()
+### Networks
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/josephf_23)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/job._23/)
@@ -34,7 +34,7 @@
 
 ##
 
-### [`Tecnologias`]()
+### Tecnologias
 
  <div style="display: inline_block"></br>
    <img align="center" alt="jojs74-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
