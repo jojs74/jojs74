@@ -1,26 +1,17 @@
 #### Josuel J. S.
 
 <div align="center">
-<img height="500em" width="700em" src= "https://github.com/jojs74/jojs74/blob/main/fa2_gi.jpg.jpg">
+<img height="500em" width="600em" src= "https://github.com/jojs74/jojs74/blob/main/fa2_gi.jpg.jpg">
 </div>
 </br>
 
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
+##
 
 - 👀  Atualmente estou aprendendo HTML, CSS, Js
 - 📫 How to reach me (Insta)</br>
 - Olá 🌎
 - 💭✍ Estudando
-
-##
-
-### contact
-
- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.google.com/gmail)
- [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://www.whatsapp.com/?lang=pt_br)
- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://web.telegram.org/)
- [![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)](https://www.messenger.com/)
-
+ 
 ##
 
 ### Networks
@@ -33,6 +24,14 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://pt-br.facebook.com/)
 
+##
+
+### contact
+
+ [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.google.com/gmail)
+ [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://www.whatsapp.com/?lang=pt_br)
+ [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://web.telegram.org/)
+ [![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)](https://www.messenger.com/)
 
 
 ##
@@ -142,5 +141,9 @@
    ![Snake animation](https://github.com/jojs74/jojs74/blob/output/github-contribution-grid-snake.svg)
  </div>
  
-  
+  ##
+ 
+ [![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
+ 
+ 
 
