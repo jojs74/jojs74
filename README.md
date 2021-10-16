@@ -1,4 +1,4 @@
-#### [`jojs74`](https://github.com/jojs74/)
+#### Josuel J. S.
 
 - 👀  Atualmente estou aprendendo HTML, CSS, Js
 - 📫 How to reach me (Insta)</br>
