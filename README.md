@@ -10,7 +10,7 @@
 - 👀  Atualmente estou aprendendo HTML, CSS, Js
 - 📫 How to reach me (Insta)</br>
 - Olá 🌎
-- 💭✍ Estudando
+- 💭✍ Estudando... 
  
 ##
 
