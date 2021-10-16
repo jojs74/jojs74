@@ -12,9 +12,7 @@
  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.google.com/gmail)
  [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://www.whatsapp.com/?lang=pt_br)
  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://web.telegram.org/)
- [![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](https://protonmail.com/pt_BR/)
  [![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)](https://www.messenger.com/)
- [![Line](https://aleen42.github.io/badges/src/line.svg)](https://line.me/en/)
 
 ##
 
@@ -26,14 +24,13 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/josephf_23)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/job._23/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/)
-[![Tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/pt-BR/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://pt-br.facebook.com/)
 
 
 
 ##
 
-### Tecnologias
+### Tec
 
  <div style="display: inline_block"></br>
    <img align="center" alt="jojs74-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -51,7 +48,6 @@
 ![Jupyter notebook](https://img.shields.io/badge/Jupyternotebook-black?style=flat-square&logo=Jupyternotebook)
 ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=r&logoColor=darkblue)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub)
 ![ETL](https://img.shields.io/badge/-ETL-black?style=flat-square&logo=ETL)
 ![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=MongoDB)
@@ -64,8 +60,6 @@
 ![Google DataLab](https://img.shields.io/badge/DataLab-black?style=flat-square&logo=google-DataLab)
 ![Power BI](https://img.shields.io/badge/-PowerBI-black?style=flat-square&logo=microsoft&logoColor=yellow)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=C)
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=C++)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=HTML5)
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=SQL)
 ![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=SQLite)
@@ -140,53 +134,6 @@
 </div>
  
  ##
-### Statistical
-<img src="https://img.shields.io/badge/-Statistical-181717?style=for-the-badge&logo=statistical" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-Frequencies and averages-181717?style=for-the-badge&logo=frequencies_and_averages" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-Probability-181717?style=for-the-badge&logo=Probability" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-Sampling-181717?style=for-the-badge&logo=Sampling" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-Hypotheses-181717?style=for-the-badge&logo=hypotheses" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-Correlations-181717?style=for-the-badge&logo=correlations" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-Market basket analysis-181717?style=for-the-badge&logo=Market_basket_analysis" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-Linear Regression-181717?style=for-the-badge&logo=Linear_regression" />&nbsp;&nbsp;&nbsp;&nbsp;
-<br/>
-<br/>
-<br/>
- 
- ##
-### Deep learning
-<img src="https://img.shields.io/badge/-ANN Artificial neural network-181717?style=for-the-badge&logo=ANN_Artificial_neural_network" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-CNN Convolutional-181717?style=for-the-badge&logo=ANN_Convolutional" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-Computer vision-181717?style=for-the-badge&logo=Computer_Vision" />&nbsp;&nbsp;&nbsp;&nbsp;
-</br>
-
- ##
- 
- ### Data analysis
-<img src="https://img.shields.io/badge/-Numpy-181717?style=for-the-badge&logo=Numpy" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-Matplotlib-181717?style=for-the-badge&logo=Matplotlib" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-Seaborn-181717?style=for-the-badge&logo=Seaborn" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-Pandas-181717?style=for-the-badge&logo=Pandas" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-ggplot2-181717?style=for-the-badge&logo=ggplot2" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-Ploty-181717?style=for-the-badge&logo=Ploty" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-SciPy -181717?style=for-the-badge&logo=SciPy" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-Altair -181717?style=for-the-badge&logo=Altair" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-Bokeh -181717?style=for-the-badge&logo=Bokeh" />&nbsp;&nbsp;&nbsp;&nbsp;
-</br>
-
-##
-### Machine learning
-<img src="https://img.shields.io/badge/-Machine learning-181717?style=for-the-badge&logo=Machine_learning" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-Regression model-181717?style=for-the-badge&logo=Regression_model" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-classification-181717?style=for-the-badge&logo=classification" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-Data analysis-181717?style=for-the-badge&logo=Data_analysis" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-recommendation systems-181717?style=for-the-badge&logo=recommendation_systems" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-Supervised algorithms-181717?style=for-the-badge&logo=supervised_algorithms" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-unsupervised algorithms-181717?style=for-the-badge&logo=unsupervised_algorithms" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-Supervised natural language model-181717?style=for-the-badge&logo=Supervised_natural_language_model" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-Unnatural language process model-181717?style=for-the-badge&logo=Unnatural_language_process_model" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-Time series-181717?style=for-the-badge&logo=Time_series" />&nbsp;&nbsp;&nbsp;&nbsp;
-
 
 
  
