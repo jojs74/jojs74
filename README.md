@@ -1,7 +1,7 @@
 #### Josuel J. S.
 
 
-![](https://github.com/jojs74/jojs74/blob/main/fot_gi.jpg.jpg)
+![](https://github.com/jojs74/jojs74/blob/main/fot_gi.jpg.xcf)
 
 - 👀  Atualmente estou aprendendo HTML, CSS, Js
 - 📫 How to reach me (Insta)</br>
