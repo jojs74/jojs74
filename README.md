@@ -3,6 +3,11 @@
 <div align="center">
 <img height="500em" width="700em" src= "https://github.com/jojs74/jojs74/blob/main/fa2_gi.jpg.jpg">
 </div>
+</br>
+
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=mB79gEVwYVk)
+
+
 
 - 👀  Atualmente estou aprendendo HTML, CSS, Js
 - 📫 How to reach me (Insta)</br>
