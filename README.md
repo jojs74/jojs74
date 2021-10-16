@@ -1,6 +1,7 @@
 #### Josuel J. S.
 
 ![coffebreack](https://github.com/jojs74/jojs74/blob/main/pexels-solodsha-9008406.mp4)
+![](https://github.com/jojs74/jojs74/blob/main/fot_gi.jpg.jpg)
 
 - 👀  Atualmente estou aprendendo HTML, CSS, Js
 - 📫 How to reach me (Insta)</br>
