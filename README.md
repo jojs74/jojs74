@@ -5,9 +5,7 @@
 </div>
 </br>
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=mB79gEVwYVk)
-
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://github.com/jojs74/jojs74/blob/main/pexels-solodsha-9008406.mp4)
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
 
 - 👀  Atualmente estou aprendendo HTML, CSS, Js
 - 📫 How to reach me (Insta)</br>
