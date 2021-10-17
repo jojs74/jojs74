@@ -14,9 +14,11 @@
  
 ##
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jojs74&show_icons=true&theme=whith)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jojs74&layout=compact&theme=whith)
-
+<div align="center">
+  <a href="https://github.com/jojs74">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jojs74&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jojs74&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
  ##
  
