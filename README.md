@@ -14,6 +14,14 @@
  
 ##
 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jojs74&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jojs74&layout=compact&theme=dracula)
+
+
+ ##
+ 
+ ![Snake animation](https://github.com/jojs74/jojs74/blob/output/github-contribution-grid-snake.svg)
+
 ### Networks
 
  [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
@@ -39,11 +47,18 @@
 ### Tec
 
  <div style="display: inline_block"></br>
-   <img align="center" alt="jojs74-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  
    <img align="center" alt="jojs74-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="jojs74-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="jojs74-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="jojs74-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+   </br>
+   </br>
+   <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
+   <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"       width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
+   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql"      width="40" height="40"/> </a>
 </div>
 
 </br>
@@ -132,16 +147,6 @@
 <img src="https://img.shields.io/badge/-Scikit Learn-181717?style=for-the-badge&logo=Scikit_Learn" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-NLTK-181717?style=for-the-badge&logo=NLTK" />&nbsp;&nbsp;&nbsp;&nbsp;
 ##
-  
-<div align="center">
-  <a href="https://github.com/jojs74">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jojs74&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jojs74&layout=compact&langs_count=7&theme=dark&include_all_commits=true&count_private=false"/>
- 
-   ![Snake animation](https://github.com/jojs74/jojs74/blob/output/github-contribution-grid-snake.svg)
- </div>
- 
-  ##
  
  [![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
  
