@@ -1,7 +1,7 @@
 #### Josuel J. S.
 #Aprendiz!
 
-<div align="center">
+<div align="left">
 <img height="500em" width="600em" src= "https://github.com/jojs74/jojs74/blob/main/fa2_gi.jpg.jpg">
 </div>
 </br>
