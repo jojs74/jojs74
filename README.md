@@ -14,8 +14,8 @@
  
 ##
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jojs74&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jojs74&layout=compact&theme=dracula)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jojs74&show_icons=true&theme=whith)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jojs74&layout=compact&theme=whith)
 
 
  ##
