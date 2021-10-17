@@ -136,7 +136,7 @@
 <div align="center">
   <a href="https://github.com/jojs74">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jojs74&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
-  <img height="250em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jojs74&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jojs74&layout=compact&langs_count=7&theme=dark&include_all_commits=true&count_private=false"/>
  
    ![Snake animation](https://github.com/jojs74/jojs74/blob/output/github-contribution-grid-snake.svg)
  </div>
