@@ -14,12 +14,16 @@
 - 💭✍ Estudando... 
  
  ##
+ <div align="center">
+  <a href="https://github.com/jojs74">
+  <img height="300em" src="https://github-readme-stats.vercel.app/api?username=jojs74&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
+</div>
  
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jojs74&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jojs74&layout=compact&theme=dark)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jojs74&layout=compact&theme=dark)
  
  ##
- 
- ![Snake animation](https://github.com/jojs74/jojs74/blob/output/github-contribution-grid-snake.svg)
+
+ ![](https://github.com/jojs74/jojs74/blob/output/github-contribution-grid-snake.svg)
  
  ##
 
