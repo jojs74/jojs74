@@ -100,7 +100,6 @@
  [![Slack](	https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://slack.com/intl/pt-br/)
  [![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)](https://zoom.us/download)
  [![Pinterest](https://aleen42.github.io/badges/src/pinterest.svg)](https://br.pinterest.com/)
-
  [![Bitbucket](https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/)
  [![Reddit](https://aleen42.github.io/badges/src/reddit.svg)](https://www.reddit.com/)
  [![Stack](	https://aleen42.github.io/badges/src/stackexchange.svg)](https://portuguese.stackexchange.com/)
