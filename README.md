@@ -1,4 +1,4 @@
-#### Josuel J. S.
+#### Jojs
 #Aprendiz!
 
 <div align="left">
@@ -8,10 +8,10 @@
 
 ##
 
-- 👀  Atualmente estou aprendendo HTML, CSS, Js
+- 👀 
 - 📫 How to reach me (Insta)</br>
 - Olá 🌎
-- 💭✍ Estudando... 
+- 💭✍ 
  
  ##
  <div align="center">
